@@ -2,7 +2,7 @@ body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
-    margin:20 20 0 20;
+    margin:20px 20px 0px 20px;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10 0 0 10;
+    padding: 10px 0px 0px 10px;
 }
 
 img {
@@ -32,7 +32,7 @@ img {
 
 div {
     min-height: 125px;
-    padding: 20px; /* adds space around elements contents*/
+    padding: 20px; 
     border: 3px solid #FFFFFF;
 }
 
@@ -46,17 +46,21 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #000000;
-    border-left: 5px solid #000000;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
     border-color: #FFFFFF
 }
 
 .blue {
+    color: #C4C4C4;
     background-color: #0000FF;
     text-align: left;
     margin-left: 50px;
-    border-bottom: 2px solid #000000;
-    border-left: 5px solid #000000;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
+}
+
+.blue h2 {
     color: #C4C4C4;
 }
 
@@ -64,8 +68,8 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #000000;
-    border-left: 5px solid #000000;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
     border-color: #FFFFFF;
     color: #707070;
 }
@@ -74,8 +78,8 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #000000;
-    border-top: 2px solid #000000;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
     font-size: 20px;
     text-align: right;
 }
